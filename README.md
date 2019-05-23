@@ -6,7 +6,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ieee0824/formatter"
+	"github.com/ieee0824/logrus-formatter"
 	"github.com/sirupsen/logrus"
 )
 
