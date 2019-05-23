@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/mymch/formatter"
+	"github.com/ieee0824/formatter"
 	"github.com/sirupsen/logrus"
 )
 
